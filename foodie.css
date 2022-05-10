@@ -1,0 +1,28 @@
+.font-google{
+    font-family: 'Roboto Slab', serif;
+}
+
+.header{
+    background: #ffffffb5;
+    backdrop-filter: blur(15px) contrast(130%);
+}
+
+.font-header{
+    font-family: 'Roboto Slab', serif;
+}
+
+.shadow{
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.logo{
+    width: 55px;
+}
+
+.logo-2{
+    width: 45px;
+}
